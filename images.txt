@@ -1,5 +1,6 @@
 emby/embyserver:latest
-linuxserver/qbittorrent:latest
+linuxserver/qbittorrent:4.6.5
 deluan/navidrome:latest
 neosmemo/memos:stable
 ghcr.io/mealie-recipes/mealie:latest
+transmission/transmission:4.0.5
