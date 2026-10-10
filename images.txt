@@ -3,4 +3,14 @@ linuxserver/qbittorrent:4.6.5
 deluan/navidrome:latest
 neosmemo/memos:stable
 ghcr.io/mealie-recipes/mealie:latest
-transmission/transmission:4.0.5
+linuxserver/transmission:4.0.5
+jxxghp/moviepilot-v2:latest
+redis:7-alpine
+postgres:16-alpine
+mzz2017/v2raya:v2.4.11
+cloud-media-sync
+amilys/embyserver:4.8.11.0
+postgres:16-alpine
+ghcr.io/flaresolverr/flaresolverr:latest
+leolitaly/avdb:latest
+crpi-xg6dfmt5h2etc7hg.cn-hangzhou.personal.cr.aliyuncs.com/cherry4nas/d2c:latest
