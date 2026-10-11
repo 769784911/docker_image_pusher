@@ -8,7 +8,7 @@ jxxghp/moviepilot-v2:latest
 redis:7-alpine
 postgres:16-alpine
 mzz2017/v2raya:v2.4.11
-cloud-media-sync
+imaliang/cloud-media-sync:latest
 amilys/embyserver:4.8.11.0
 postgres:16-alpine
 ghcr.io/flaresolverr/flaresolverr:latest
